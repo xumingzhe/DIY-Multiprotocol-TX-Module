@@ -239,7 +239,7 @@
 	#define	SDO_pin			PB14							//MISO
 	#define	SDI_pin			PB15							//MOSI
 	//
-	#define	TX_INV_pin		PB3
+	#define	TX_INV_pin		PB1
 	#define	RX_INV_pin		PB1
 	//
 	#define	PE1_on  		digitalWrite(PE1_pin,HIGH)
